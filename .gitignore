@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Virtual environment folders
+venv/
+env/
+
+#########################################
+#Data files if big or sensitive
+#data/
+#########################################
